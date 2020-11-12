@@ -5,7 +5,7 @@ Installs:[
     Firebase: 
       -> install -g firebase-tools
       -> firebase login
-      -> 'Create the functions folder'
+      -> 'Create the functions-project folder'
       -> firebase init
   ]
 
