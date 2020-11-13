@@ -30,3 +30,7 @@ Installs:[
       
   ]
 ]
+
+{
+  pushNewBranch: 'git push -u origin <branch>';
+}

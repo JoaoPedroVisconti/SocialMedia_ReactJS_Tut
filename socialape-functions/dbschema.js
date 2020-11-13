@@ -21,6 +21,15 @@ let db = {
       componentCount: 1,
     },
   ],
+
+  comments: [
+    {
+      userHandle: 'user',
+      screamsId: 'kja4sdv7a54sdv6asd5v4',
+      body: 'Something written',
+      createdAt: '2020-11-11T13:26:20.403Z',
+    },
+  ],
 };
 
 const userDetails = {
@@ -46,7 +55,3 @@ const userDetails = {
     },
   ],
 };
-
-{
-  ('Test after push the first time');
-}
