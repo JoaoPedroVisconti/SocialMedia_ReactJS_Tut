@@ -25,6 +25,8 @@ Installs:[
           appId: "1:495283256056:web:837c5466d8c2a7d9a8d90d"
         };
       ]
+
+    -> npm install --save busboy (Upload Image Function)
       
   ]
 ]
